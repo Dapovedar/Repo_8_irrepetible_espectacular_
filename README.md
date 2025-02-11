@@ -53,3 +53,4 @@ Crear cuenta en stackoverflow y adjuntar imagen en el repo:
 Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando,
 si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalón. Dejar enlace en el repo.
 
+En el siguiente link se encuentra la cuenta de linkedin:[ cuenta](www.linkedin.com/in/daniel-poveda-4305b0348)
