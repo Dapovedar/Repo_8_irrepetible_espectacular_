@@ -1,4 +1,4 @@
-# Repo_8_irrepetible_espectacular_
+# Reto_8_irrepetible_espectacular_
 reto 8 de la clase de funciones 2 de programación de computadoras de la unal.
 ## Ejercicio 1
 De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
